@@ -2,19 +2,19 @@
   "bot-accounts": [
     {
       "username": "AFKBot1", 
-      "password": "password1", 
+      "password": "", 
       "type": "mojang"
     },
     {
       "username": "AFKBot2", 
-      "password": "password2", 
+      "password": "", 
       "type": "mojang"
     }
   ],
 
   "server": {
-    "ip": "SlobosVideos.aternos.me", 
-    "port": 13855,   
+    "ip": "191.96.231.11", 
+    "port": 31465,   
     "version": "1.12.1"
   },
 
