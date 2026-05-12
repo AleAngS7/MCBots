@@ -13,8 +13,7 @@
   ],
 
   "server": {
-    "ip": "191.96.231.11", 
-    "port": 31465,   
+    "ip": "servercito23.seedloaf.gg",
     "version": "1.12.1"
   },
 
